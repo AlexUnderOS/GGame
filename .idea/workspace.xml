@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e61d9f5d-94eb-46fb-a4b8-aba2326d1b89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/easy/Infiniti.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/easy/Lexus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/easy/Mercedes-Benz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/easy/Volkswagen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/easy/audi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/easy/bentley.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/easy/bmw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/easy/ferrari.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/easy/honda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/easy/porsche.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/easy/tesla.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/easy/toyota.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/hard/Genesis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/hard/Kamaz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/hard/Kenworth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/hard/Laraki.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/hard/Lotus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/hard/Mahindra.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/hard/Mustang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/hard/Perodua.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/hard/Pontiac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/hard/RAM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/hard/Tata.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/hard/maserati.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/normal/BMW-M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/normal/General-Motors.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/normal/Maybach.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/normal/Premier.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/normal/Saturn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/normal/Skoda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/normal/Suzuki.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/normal/cadillac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/normal/chevrolet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/normal/jaguar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/normal/mitsubishi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logos/normal/subaru.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testWindApp.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XzVhVr2H6c4EAchmkC9hjAgxQ0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AlexOsta\Documents\~Programming\_Trash\testWindApp\src\car brand logos\easy" />
+      <recent name="C:\Users\AlexOsta\Documents\~Programming\_Trash\testWindApp\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e61d9f5d-94eb-46fb-a4b8-aba2326d1b89" name="Changes" comment="" />
+      <created>1699632016801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699632016801</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
